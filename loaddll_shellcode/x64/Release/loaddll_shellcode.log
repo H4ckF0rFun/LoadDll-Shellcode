@@ -1,0 +1,12 @@
+﻿生成启动时间为 1/22/2025 10:35:15 PM。
+     1>项目“C:\Users\binsong\Desktop\Dll2Shellcode\loaddll_shellcode\loaddll_shellcode.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Exe2Shellcode.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>_MASM:
+         Assembling stub32.asm...
+       Link:
+         loaddll_shellcode.vcxproj -> C:\Users\binsong\Desktop\Dll2Shellcode\x64\Release\loaddll_shellcode.exe
+     1>已完成生成项目“C:\Users\binsong\Desktop\Dll2Shellcode\loaddll_shellcode\loaddll_shellcode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.20

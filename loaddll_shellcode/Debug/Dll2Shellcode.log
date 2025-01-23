@@ -1,0 +1,15 @@
+﻿生成启动时间为 1/19/2025 6:54:06 PM。
+     1>项目“C:\Users\binsong\Desktop\Dll2Shellcode\Dll2Shellcode\Dll2Shellcode.vcxproj”在节点 2 上(Build 个目标)。
+     1>_MASM:
+         Assembling stub.asm...
+         cmd.exe /C "C:\Users\binsong\AppData\Local\Temp\tmp919cd10adba548aeb5f5bfbaa9be2e2c.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\stub.obj" /W3 /errorReport:prompt  /Tastub.asm
+       Link:
+         D:\ProgramFiles\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\binsong\Desktop\Dll2Shellcode\Debug\Exe2Shellcode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\binsong\Desktop\Dll2Shellcode\Debug\Exe2Shellcode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"entry" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\binsong\Desktop\Dll2Shellcode\Debug\Exe2Shellcode.lib" /MACHINE:X86 Debug\loader.obj
+         Debug\stub.obj
+         Dll2Shellcode.vcxproj -> C:\Users\binsong\Desktop\Dll2Shellcode\Debug\Exe2Shellcode.exe
+     1>已完成生成项目“C:\Users\binsong\Desktop\Dll2Shellcode\Dll2Shellcode\Dll2Shellcode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56

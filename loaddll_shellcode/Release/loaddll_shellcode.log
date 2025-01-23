@@ -1,0 +1,20 @@
+﻿生成启动时间为 1/22/2025 10:59:26 PM。
+     1>项目“C:\Users\binsong\Desktop\Dll2Shellcode\loaddll_shellcode\loaddll_shellcode.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Exe2Shellcode.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>_MASM:
+         Assembling stub32.asm...
+         cmd.exe /C "C:\Users\binsong\AppData\Local\Temp\tmp407a7e9a5ecd4dabb56c6cdc22c762f7.cmd"
+         ml.exe /c /nologo /Zi /Fo"Release\stub32.obj" /W3 /errorReport:prompt  /Tastub32.asm
+       _MASM:
+         Assembling stub64.asm...
+       Link:
+         D:\ProgramFiles\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\binsong\Desktop\Dll2Shellcode\Release\loaddll_shellcode.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\binsong\Desktop\Dll2Shellcode\Release\loaddll_shellcode.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"entry" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\binsong\Desktop\Dll2Shellcode\Release\loaddll_shellcode.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\loader.obj
+         Release\stub32.obj
+         正在生成代码
+         已完成代码的生成
+         loaddll_shellcode.vcxproj -> C:\Users\binsong\Desktop\Dll2Shellcode\Release\loaddll_shellcode.exe
+     1>已完成生成项目“C:\Users\binsong\Desktop\Dll2Shellcode\loaddll_shellcode\loaddll_shellcode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58
